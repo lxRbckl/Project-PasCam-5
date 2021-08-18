@@ -144,7 +144,7 @@ async def show(ctx):
     await ctx.author.send('\n'.join(listVariable), delete_after = 60)
 
 
-PasCam.run('NzUyNjczMTQ1MTM1MTY5NjU3.X1bDfQ.LKLvW3K5Lxus3kMp3_7z-CdNhFE')
+PasCam.run('')
 
 
 # In loving memory of The Bunny. #
