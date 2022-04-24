@@ -1,4 +1,4 @@
-## [Project PasCam 5](http://lxrbckl.com/Project-PasCam-5)
+## [`Project PasCam 5`](http://lxrbckl.com/Project-PasCam-5)
 > Camouflage your passwords with a Discord bot. Share function added. Spring 2021.
 
 ### Installation
